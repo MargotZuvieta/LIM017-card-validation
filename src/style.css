@@ -1,0 +1,42 @@
+p{
+  color:white;
+}
+
+body{
+background-color:rgb(0, 0, 0);
+margin:0;
+padding:0
+}
+nav{
+ width:100%;
+ background-color:rgb(245, 11, 11);
+ overflow:auto;
+}
+ul{
+ padding:0;
+ margin:0 0 0 950px;
+ list-style:none;
+}
+li{
+ float: left;
+}
+.log img{
+ position:fixed;
+ margin: top 15px;
+ margin: left 10px;
+}
+nav a{
+ width:100px;
+ display:block;
+ padding:20px 15 px;
+ text-decoration:none;
+ font-family:Arial,Helvet;
+ color:aliceblue;
+ text align:center;
+}
+nav a:hover{
+ background-color:rgb(219, 113, 95);
+ transition:0.5s;
+ text-transform:uppercase;
+}
+
